@@ -1,0 +1,6 @@
+{
+  "name": "Vitolito Eventos",
+  "description": "Vitolito Eventos: salón de fiestas en City Bell con juegos, inflables, animación y experiencias para cumpleaños y celebraciones infantiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #023047;
+  --color-primary-dark: #011f2e;
+  --color-primary-light: #064b6e;
+  --color-secondary: #2C9C8E;
+  --color-secondary-dark: #207a6f;
+  --color-secondary-light: #3abfb0;
+  --color-secondary-soft: #e9f8f6;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+.font-festive {
+  font-family: 'Fredoka', cursive, sans-serif;
+}
+
+.font-gestural {
+  font-family: 'Caveat', cursive, sans-serif;
+}
+
+.font-logo-script {
+  font-family: 'Pacifico', 'Dancing Script', 'Satisfy', cursive, sans-serif;
+}
+
+/* Custom interactive styling for Vitolito */
+.bg-vitolito-primary {
+  background-color: #023047;
+}
+
+.bg-vitolito-secondary {
+  background-color: #2C9C8E;
+}
+
+.text-vitolito-primary {
+  color: #023047;
+}
+
+.text-vitolito-secondary {
+  color: #2C9C8E;
+}
+
+.border-vitolito-secondary {
+  border-color: #2C9C8E;
+}
+
+.border-vitolito-primary {
+  border-color: #023047;
+}
